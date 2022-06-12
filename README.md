@@ -1,2 +1,2 @@
 # Discord-bot
- Bot di discor personale per il mio server di goliardici idioti
+ Bot di discord personale per il mio server di goliardici idioti
